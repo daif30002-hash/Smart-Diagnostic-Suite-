@@ -1,0 +1,6 @@
+{
+  "name": "Poultry Disease Database",
+  "description": "Comprehensive poultry disease database and image analysis diagnostic tool for broiler breeding and fattening projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
